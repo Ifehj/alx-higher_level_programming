@@ -9,7 +9,7 @@ lesser = "and is less than 6 and not 0"
 
 if number < 0:
     last_digit = -last_digit
-    
+
 if last_digit > 5:
     print("Last digit of {} is {} {}".format(number, last_digit, greater))
 
