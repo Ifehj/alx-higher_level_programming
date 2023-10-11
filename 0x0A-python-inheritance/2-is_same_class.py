@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" is_same_class checks if the objest is an instance of the 
+""" is_same_class checks if the objest is an instance of the
 specified class """
 
 
