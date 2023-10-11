@@ -1,4 +1,4 @@
-#!/usr/binpython3
+#!/usr/bin/python3
 """ is_same_class checks if the objest is an instance of the specified class """
 
 def is_same_class(obj, a_class):
