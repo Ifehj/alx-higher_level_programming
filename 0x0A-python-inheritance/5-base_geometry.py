@@ -2,4 +2,5 @@
 """ Empty class """
 
 class BaseGeometry:
+    """Represent base geometry."""
     pass
